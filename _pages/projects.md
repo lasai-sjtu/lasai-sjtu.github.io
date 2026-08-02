@@ -1,91 +1,122 @@
 ---
 layout: page
-permalink: /projects/
-title: Projects
-description: 
+permalink: /research/
+title: Research
+description: LaSAI research on multilingual, interpretable, and human-centered language intelligence.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
-Content: 
+<div class="research-lead">
+  <span class="eyebrow">Our research vision</span>
+  <h2>Language Science for AI <span>&</span> AI for Language Science</h2>
+  <p>
+    LaSAI treats language science and artificial intelligence as a two-way exchange. Linguistic and
+    cognitive insights help us understand and improve AI systems; AI models and computational methods
+    give language researchers new instruments for studying language, culture, and cognition.
+  </p>
+</div>
 
-* [On-going research projects](#ongoingproj)
-* [Completed research projects](#finishproj)
-* For BSc/MSc thesis projects, please check [here](https://mainlp.github.io/thesis/)
+<figure class="research-figure research-figure-wide">
+  <img src="{{ '/assets/img/research/language-science-ai-two-way.png' | relative_url }}"
+       alt="Diagram showing the two-way relationship between Language Science for AI and AI for Language Science">
+  <figcaption>LaSAI's two-way research program: language science and artificial intelligence informing one another.</figcaption>
+</figure>
 
-At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
+<div class="research-pillars">
+  <article class="research-pillar research-pillar-red">
+    <span class="pillar-number">01</span>
+    <h2>Language Science for AI</h2>
+    <p>
+      We use linguistic knowledge, multilingual evidence, and human language-processing research to
+      explain how language models work, diagnose cross-lingual and cross-cultural failures, and design
+      evaluations that better reflect human language behavior.
+    </p>
+    <ul>
+      <li>Mechanistic interpretability of multilingual LLMs</li>
+      <li>Cross-lingual knowledge, transfer, and language confusion</li>
+      <li>Human-inspired evaluation and model design</li>
+    </ul>
+  </article>
 
+  <article class="research-pillar research-pillar-blue">
+    <span class="pillar-number">02</span>
+    <h2>AI for Language Science</h2>
+    <p>
+      We use language models and computational methods as research instruments for linguistics,
+      cognition, historical language research, digital humanities, and neighboring human and social sciences.
+    </p>
+    <ul>
+      <li>Computational models of language and cognition</li>
+      <li>Low-resource and historical language technologies</li>
+      <li>AI-assisted research in the humanities and social sciences</li>
+    </ul>
+  </article>
+</div>
 
-<h2 class="category"><a name="ongoingproj">On-going research projects</a></h2>
+## 🧠 主要研究方向
 
-The following lists selected on-going research projects at MaiNLP, including selected publications:
+研究组目前重点围绕 **“多语言 × 可解释性”** 开展两条研究主线：
 
-### <a name="ercdialect">ERC Consolidator grant DIALECT: Natural Language Understanding for non-standard languages and dialects</a>
+<div class="focus-lines">
+  <article>
+    <span>1</span>
+    <div>
+      <h3>大模型多语言跨文化感知的机制解释与评测</h3>
+      <p>研究大语言模型如何获取、表示、编辑、检索和使用不同语言中的语言知识与事实知识，并解释语言混淆、跨语言不一致和跨文化偏差等现象。</p>
+    </div>
+  </article>
+  <article>
+    <span>2</span>
+    <div>
+      <h3>人类语言认知加工与大模型机制可解释性的对比研究</h3>
+      <p>将心理语言学、神经语言学和认知科学中的实验范式与模型内部表征分析相结合，比较人类与大模型在形式、意义、知识和推理过程中的异同。</p>
+    </div>
+  </article>
+</div>
 
-Dialects are ubiquitous and for many speakers are part of everyday life. They carry important social and communicative functions. Yet, dialects and non-standard languages in general are a blind spot in research on Natural Language Understanding (NLU). Despite recent breakthroughs, NLU still fails to take linguistic diversity into account. This lack of modeling language variation results in biased language models with high error rates on dialect data. This failure excludes millions of speakers today and prevents the development of future technology that can adapt to such users.
+<!-- <figure class="research-figure">
+  <img src="{{ '/assets/img/research/language-science-intelligence-cn.png' | relative_url }}"
+       alt="Chinese-language overview of Language Science for AI and AI for Language Science">
+  <figcaption>“语言科学智能”关注的不只是让机器处理语言，而是理解语言、人类与智能系统之间的关系。</figcaption>
+</figure> -->
 
-To account for linguistic diversity, a paradigm shift is needed: Away from data-hungry algorithms with passive learning from large data and single ground truth labels, which are known to be biased. To go past current learning practices, the key is to tackle variation at both ends: in input data and label bias. With DIALECT, I propose such an integrated approach, to devise algorithms which aid transfer from rich variability in inputs, and interactive learning which integrates human uncertainty in labels. This will reduce the need for data and enable better adaptation and generalization.
+## Research themes
 
-Advances in salient areas of deep learning research now make it possible to tackle this challenge. DIALECT’s objectives are to devise a) new algorithms and insights to address extremely scarce data setups and biased labels; b) novel representations which integrate auxiliary sources of information such as complement text data with speech; and c) new datasets with conversational data in its most natural form.
+<div class="theme-grid">
+  <article>
+    <span class="theme-icon" aria-hidden="true">🌐</span>
+    <h3>Multilingual & Cross-cultural AI</h3>
+    <p>Cross-lingual transfer, multilingual representations, knowledge consistency, low-resource languages, and culturally grounded evaluation.</p>
+  </article>
+  <article>
+    <span class="theme-icon" aria-hidden="true">🔎</span>
+    <h3>Interpretability & Internal Mechanisms</h3>
+    <p>Mechanistic interpretability, language confusion, knowledge editing, model behavior, and representations of language and reasoning.</p>
+  </article>
+  <article>
+    <span class="theme-icon" aria-hidden="true">🧠</span>
+    <h3>Language, Cognition & the Brain</h3>
+    <p>Human-inspired NLP, neurolinguistic probing, conceptual representation, and comparisons between human and machine language processing.</p>
+  </article>
+  <article>
+    <span class="theme-icon" aria-hidden="true">📚</span>
+    <h3>AI for Language & Humanities</h3>
+    <p>Computational approaches to historical language, digital humanities, education, culture, and interdisciplinary human-centered research.</p>
+  </article>
+  <article>
+    <span class="theme-icon" aria-hidden="true">⚙️</span>
+    <h3>Efficient & Agentic NLP</h3>
+    <p>Prompt- and retrieval-based learning, memory-augmented agents, low-resource learning, parameter-efficient adaptation, and model efficiency.</p>
+  </article>
+</div>
 
-By integrating dialectal variation into models able to learn from scarce data and biased labels, the foundations will be established for fairer and more accurate NLU to break down language and literary barriers.
-
-For further details about the project, please visit the [DIALECT webpage](https://dialect-erc.github.io/).
-
-Selected publications:
-- [Plank, 2016. What to do about non-standard (or non-canonical) language in NLP. In KONVENS.](https://arxiv.org/abs/1608.07836)
-- [Plank, 2022. The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation. In EMNLP.](https://arxiv.org/abs/2211.02570)
-- [Baan, Aziz, Plank & Fernandez 2022.  Stop Measuring Calibration When Humans Disagree. In EMNLP.](https://arxiv.org/abs/2210.16133)
-- [Blaschke, Schütze & Plank, 2023. A Survey of Corpora for Germanic Low-Resource Languages and Dialects. In NoDaLiDa.](https://arxiv.org/abs/2304.09805)
-
-
-
-### <a name="klima-memes">KLIMA-MEMES: The Impact of Humorous Communication on Political Decision-Making in the Climate Change Context</a>
-
-Climate change is a pressing problem facing humanity and a major polarizing topic in public discourse. Discussions on climate change pervade political agendas worldwide. IPCC experts agree that currently implemented measures against climate change are inadequate in their efforts. Information akin to this often rapidly breaks into social media spheres (e.g., Instagram and TikTok) in increasingly visual and often humor-driven attention cycles. The KLIMA-MEMES project will analyze how such communication in the form of memes or other visual media with an intent to be humorous can affect political decision-making. This is a collaborative project with multiple partners at LMU, funded by the Bavarian Research Institute for Digital Transformation. 
-
-More information:
-- [Zhou, Peng, Plank, 2024. ClimateEli: Evaluating Entity Linking on Climate Change Data. In Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)](https://aclanthology.org/2024.climatenlp-1.16/)
-- See the [KLIMA-MEMES project website](https://klimamemes.ifkw.lmu.de/)
-
-<h3 class="category"><a name="collabproj">On-going collaboration projects</a></h3>
-
-The following lists selected on-going research projects at other institutions, which MaiNLP is a partner in:
-
-### <a name="travolta">Travolta: Tracing Attitudes And Variation In Online Luxembourgish Text Archives</a>
-
-This project, led by Prof. Christoph Purschke from the University of Luxembourg combines Natural Language Processing with sociolinguistic analysis to trace the development of written Luxembourgish and public discourse online.
-
-- See the [TRAVOLTA project page](https://www.uni.lu/fhse-en/research-projects/travolta-tracing-attitudes-and-variation-in-online-luxembourgish-text-archives/)
-
-
-
-<h2 class="category"><a name="finishproj">Completed research projects</a></h2>
-
-### <a name="multivalue">DFF Sapere Aude Project MultiVaLUe: Multilingual Variety-aware Language Understanding Technology</a>
-
-Intelligent machines that understand natural language texts are the Holy Grail of Artificial Intelligence. If achieved, they can automatically extract useful information from big messy text collections. Many challenges must be overcome first. To alleviate the scarcity of resources and broaden the scope to Danish and other small languages, we will unify two strands of research, transfer learning and weak supervision, with the aim to design cross-domain and cross-lingual algorithms that extract information more robustly under minimal guidance. In this project we work on two concrete applications: cross-lingual syntactic parsing (and representation learning on the linguistic manifold) and cross-domain information extraction.
-
-Selected publications:
-- [Müller-Eberstein, van der Goot & Plank, 2021. Genre as Weak Supervision for Cross-lingual Dependency Parsing. In EMNLP.](https://aclanthology.org/2021.emnlp-main.393/)
-- [Müller-Eberstein, van der Goot & Plank, 2022. Spectral Probing. In EMNLP.](https://arxiv.org/abs/2210.11860)
-- [Bassignana & Plank, 2022. CrossRE: A Cross-Domain Dataset for Relation Extraction. In EMNLP Findings.](https://arxiv.org/abs/2210.09345)
-- [Bassignana & Plank, 2022. What Do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification. In ACL SRW.](https://aclanthology.org/2022.acl-srw.7/)
-
-  
-### <a name="multiskill">DFF Project thematic AI, MultiSkill: Multilingual Information Extraction for Job Posting Analysis (2020-2024)</a>
-
-Job markets are about to undergo profound changes in the years to come. The skills required to perform most jobs will shift significantly. This is due to a series of interrelated developments in technology, migration and digitization. As skills change, we are facing increasing needs for quicker and better hiring to better match people to jobs. Big multilingual job vacancy data are emerging on a variety and multitude of platforms. Such big data can provide insights on labor market skill set demands. This project is centered around computational job market analysis, to reliably perform high-precision information extraction on targeted domain data.
-
-Selected publications:
-- [Zhang, Jensen, Sonniks & Plank, 2022. SkillSpan: Hard and Soft Skill Extraction from English Job Postings. In NAACL.](https://aclanthology.org/2022.naacl-main.366/)
-- [Zhang, Jensen & Plank 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
-- [Zhang, van der Goot & Plank, 2023. ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain. In ACL.](https://aclanthology.org/2023.acl-long.662.pdf)
-- PhD thesis by Mike Zhang on [Computational Job Market Analysis with Natural Language Processing](https://arxiv.org/abs/2404.18977)
-
-
-<hr/>
-
-### Applications for PhD, Postdoc and student assistant positions
-
-Interested in PhD, Postdoc or student assistants jobs?  <a href="/jobs">→Open positions</a>
+<aside class="research-note">
+  <strong>For prospective students · 面向学生</strong>
+  <p>
+    We welcome students interested in NLP, LLMs, language science, multilingual AI, interpretability,
+    cognition, and AI for the humanities. Strong applicants may come from either computational or
+    language-centered backgrounds; curiosity, rigor, and an appetite for interdisciplinary work matter most.
+  </p>
+  <a href="{{ '/contact/' | relative_url }}">Talk with us about a possible project →</a>
+</aside>

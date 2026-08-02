@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 permalink: /website-notes/
 title: Updating the website
 description: 

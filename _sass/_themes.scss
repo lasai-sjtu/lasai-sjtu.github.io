@@ -6,17 +6,24 @@
 :root {
   --global-bg-color: #{v.$white-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
-  --global-code-fg-color: #{v.$mainlp-dark-blue};
-  --global-text-color: #{v.$black-color};
+  --global-code-fg-color: #{v.$lasai-blue-deep};
+  --global-text-color: #{v.$lasai-ink};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$mainlp-green};
-  --global-hover-color: #{v.$mainlp-light-blue};
-  --global-footer-bg-color: #{v.$mainlp-dark-blue};
+  --global-theme-color: #{v.$lasai-red};
+  --global-hover-color: #{v.$lasai-blue};
+  --global-footer-bg-color: #{v.$lasai-ink};
   --global-footer-text-color: #{v.$grey-color-light};
   --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color};
-  --global-divider-color: #{v.$mainlp-dark-blue};
+  --global-divider-color: #{v.$lasai-blue-deep};
   --global-card-bg-color: #{v.$white-color};
+  --lasai-red: #{v.$lasai-red};
+  --lasai-red-deep: #{v.$lasai-red-deep};
+  --lasai-blue: #{v.$lasai-blue};
+  --lasai-blue-deep: #{v.$lasai-blue-deep};
+  --lasai-purple: #{v.$lasai-purple};
+  --lasai-ink: #{v.$lasai-ink};
+  --lasai-mist: #{v.$lasai-mist};
 
   .fa-sun {
     display : none;

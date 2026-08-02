@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 permalink: /roomfinder/
 title: How to get to teaching rooms
 description: 
@@ -27,5 +28,4 @@ Some pictures to illustrate it are here:
 
 
 <img src="/assets/img/room/20240412_094558.jpg" width="400px" height="auto">
-
 
