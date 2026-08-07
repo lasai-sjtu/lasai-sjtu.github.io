@@ -36,7 +36,7 @@ team:
   </p>
 
   <p>
-    Directed by <a href="https://ercong21.github.io/">Dr. Ercong Nie (聂耳聪)</a>, LaSAI studies
+    Directed by Dr. Ercong Nie (聂耳聪) <a href="https://ercong21.github.io/">[Page]</a>, LaSAI studies
     language as both an object of artificial intelligence and a window into intelligence itself.
     We connect natural language processing, large language models, linguistics, cognition, and the
     digital humanities to build AI that is <strong>multilingual, interpretable, efficient, and human-centered</strong>.
