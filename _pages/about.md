@@ -60,6 +60,16 @@ team:
   <h2 class="section-heading" id="news-heading">News</h2>
   <ol class="news-list">
     <li>
+      <time datetime="2026-08">August 2026</time>
+      <div>
+        Two papers were accepted to <a href="https://2026.emnlp.org/">EMNLP 2026</a>
+        (one Main Conference paper and one Findings paper), on long-horizon video reasoning and
+        mechanistic interpretability of language abilities in large language models.
+        <a href="https://arxiv.org/abs/2605.17065">Main paper</a> ·
+        <a href="https://www.preprints.org/manuscript/202607.1441">Findings paper</a>
+      </div>
+    </li>
+    <li>
       <time datetime="2026-07">July 2026</time>
       <div>
         We co-organized <span lang="zh">“大语言模型与数字人文的方法和应用暨上海交通大学首届数字人文暑期高端研讨会”</span>.
