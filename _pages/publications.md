@@ -79,7 +79,7 @@ nav_order: 4
 </details>
 
 <details class="publication-year">
-  <summary><span>2025</span><small>Journals, conferences & workshops</small></summary>
+  <summary><span>2025</span><small>Conferences & workshops</small></summary>
   <div class="pub-list" markdown="1">
 
 - Shuzhou Yuan\*, **Ercong Nie**\*, Lukas Kouba, Ashish Yashwanth Kangen, Helmut Schmid, Hinrich Schütze, and Michael Färber. [**LLM in the Loop: Creating the ParaDeHate Dataset for Hate Speech Detoxification**](https://aclanthology.org/2025.findings-ijcnlp.59/). *Findings of IJCNLP-AACL*, 2025.
