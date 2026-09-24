@@ -57,11 +57,15 @@ nav_order: 4
 
 - **Ercong Nie**, Siyao Peng, Helmut Schmid, and Hinrich Schütze. [**Parsing Middle High German: Exploring Cross-lingual NLP for Treebank Construction in Low-resource Historical Languages**](https://doi.org/10.1093/llc/fqag104). *Digital Scholarship in the Humanities*, 2026.
 - Minghan Li, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, **Ercong Nie**, and Guodong Zhou. [**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**](https://doi.org/10.1145/3816248). *ACM Transactions on Information Systems*, 2026.
+- Minghan Li, Miyang Luo, Tianrui Lv, Yishuai Zhang, Siqi Zhao, **Ercong Nie**, and Guodong Zhou. [**A Survey of Long-Document Retrieval in the PLM and LLM Era**](https://arxiv.org/abs/2509.07759). *ACM Transactions on Information Systems*, 2026.
 - Hengyuan Zhang, Zhihao Zhang, Mingyang Wang, Zunhai Su, Yiwei Wang, Qianli Wang, Shuzhou Yuan, **Ercong Nie**, et al. [**Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models**](https://www.sciencedirect.com/science/article/pii/S157401372600119X). *Computer Science Review*, 2026.
 - Minghan Li, **Ercong Nie**, Huiping Huang, Xinxuan Lv, and Guodong Zhou. [**Dual-Layer Prompt Ensembles: Leveraging System- and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion**](https://doi.org/10.1016/j.inffus.2026.104160). *Information Fusion*, 2026.
 - Linyang He\*, **Ercong Nie**\*, Jonathan Brennan, Helmut Schmid, Hinrich Schütze, and Nima Mesgarani. **Investigating Multilingual Conceptual Understanding of Large Language Models with Minimal Pair Probing**. *ACM Transactions on Asian and Low-Resource Language Information Processing*, 2026.
 - Sikuan Yan, Sicheng Dong, Haotong Wang, **Ercong Nie**, Yilun Liu, Jinhe Bi, Yingjie Xu, Susanna Schwarzmann, Riccardo Trivisonno, Volker Tresp, and Yunpu Ma. [**PyraVid: Hierarchical Multimodal Memory for Long-Horizon Video Reasoning**](https://arxiv.org/abs/2605.17065). *EMNLP*, 2026.
 - Xufeng Duan, Zhaoqian Yao, Xinyu Zhou, Zihao Fu, Beijia Kan, Yibo Wang, Bei Xiao, Hengyuan Zhang, Xuemei Tang, **Ercong Nie**, and Zhenguang G. Cai. [**Mechanistic Interpretability for Understanding Language Abilities in Large Language Models: A Survey**](https://www.preprints.org/manuscript/202607.1441). *Findings of EMNLP*, 2026.
+- Sikuan Yan, Ahmed Bahloul, **Ercong Nie**, Susanna Schwarzmann, Riccardo Trivisonno, Volker Tresp, and Yunpu Ma. [**Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents**](https://arxiv.org/abs/2605.21768). *NeurIPS*, 2026.
+- Zijing Wang, Mingyang Wang, **Ercong Nie**, Yongkang Liu, Shi Feng, Mengjie Zhao, Daling Wang, Xiaocui Yang, and Hinrich Schütze. [**DiM³: Bridging Multilingual and Multimodal Models via Direction- and Magnitude-Aware Merging**](https://arxiv.org/abs/2605.12960). *NeurIPS*, 2026.
+- Yongkang Liu, Zijing Wang, Mengjie Zhao, **Ercong Nie**, Mingyang Wang, Qian Li, Feiliang Ren, Shi Feng, Daling Wang, and Hinrich Schütze. [**ChunkFT: Byte-Streamed Optimization for Memory-Efficient Full Fine-Tuning**](https://arxiv.org/abs/2605.21177). *NeurIPS*, 2026.
 - YongKang Liu, Jiayang Yu, Mingyang Wang, Yiqun Zhang, **Ercong Nie**, Shi Feng, Daling Wang, Kaisong Song, and Hinrich Schütze. [**SAD: A Large-Scale Strategic Argumentative Dialogue Dataset**](https://aclanthology.org/2026.acl-long.1673/). *ACL*, 2026.
 - Sikuan Yan\*, Xiufeng Yang\*, Zuchao Huang, **Ercong Nie**, Zifeng Ding, Zonggen Li, Xiaowen Ma, Jinhe Bi, Kristian Kersting, Jeff Z. Pan, Hinrich Schütze, Volker Tresp, and Yunpu Ma. [**Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning**](https://aclanthology.org/2026.acl-long.583/). *ACL*, 2026.
 - YongKang Liu, Xingle Xu, **Ercong Nie**, Zijing Wang, Shi Feng, Daling Wang, Qian Li, and Hinrich Schütze. [**Look Within or Beyond? A Theoretical Comparison Between Parameter-Efficient and Full Fine-Tuning**](https://aclanthology.org/2026.acl-long.2208/). *ACL*, 2026.
@@ -70,9 +74,6 @@ nav_order: 4
 - Hengyuan Zhang, Zhihao Zhang, **Ercong Nie**, Mingyang Wang, Zunhai Su, Yiwei Wang, Qianli Wang, Shuzhou Yuan, et al. [**Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models**](https://aclanthology.org/2026.findings-acl.502/). *Findings of ACL*, 2026.
 - Shuzhou Yuan, William LaCroix, Hardik Ghoshal, **Ercong Nie**, and Michael Färber. [**CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation**](https://arxiv.org/abs/2508.08386). *LREC*, 2026.
 - Minghan Li, **Ercong Nie**, Siqi Zhao, Tongna Chen, Huiping Huang, and Guodong Zhou. [**Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion**](https://arxiv.org/abs/2602.08917). Preprint, 2026.
-- Zijing Wang, Mingyang Wang, **Ercong Nie**, Yongkang Liu, Shi Feng, Mengjie Zhao, Daling Wang, Xiaocui Yang, and Hinrich Schütze. [**DiM³: Bridging Multilingual and Multimodal Models via Direction- and Magnitude-Aware Merging**](https://arxiv.org/abs/2605.12960). Preprint, 2026.
-- Yongkang Liu, Zijing Wang, Mengjie Zhao, **Ercong Nie**, Mingyang Wang, Qian Li, Feiliang Ren, Shi Feng, Daling Wang, and Hinrich Schütze. [**ChunkFT: Byte-Streamed Optimization for Memory-Efficient Full Fine-Tuning**](https://arxiv.org/abs/2605.21177). Preprint, 2026.
-- Sikuan Yan, Ahmed Bahloul, **Ercong Nie**, Susanna Schwarzmann, Riccardo Trivisonno, Volker Tresp, and Yunpu Ma. [**Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents**](https://arxiv.org/abs/2605.21768). Preprint, 2026.
 
 </div>
 </details>
@@ -94,8 +95,6 @@ nav_order: 4
 - Lovisa Hagström, **Ercong Nie**, Ruben Halifa, Helmut Schmid, Richard Johansson, and Alexander Junge. [**Language Model Re-rankers are Fooled by Lexical Similarities**](https://aclanthology.org/2025.fever-1/). *FEVER at ACL*, 2025.
 - Wenhan Feng, Anqi Zhu, Thanh Phuoc Ho, **Ercong Nie**, Beiduo Chen, Shijia Zhou, Hao Su, and Liang Emlyn Yang. **Generative Agent-Based Modeling for Climate Adaptation Policy: A Flood Resilience Perspective**. *ESSA Social Simulation Conference*, 2025.
 - Shuzhou Yuan, **Ercong Nie**, Yinuo Sun, Chenxuan Zhao, William LaCroix, and Michael Färber. [**Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs**](https://arxiv.org/abs/2510.08158). LREC, 2026.
-- Minghan Li, Miyang Luo, Tianrui Lv, Yishuai Zhang, Siqi Zhao, **Ercong Nie**, and Guodong Zhou. [**A Survey of Long-Document Retrieval in the PLM and LLM Era**](https://arxiv.org/abs/2509.07759). Preprint, 2025.
-
 </div>
 </details>
 

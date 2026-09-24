@@ -60,6 +60,15 @@ team:
   <h2 class="section-heading" id="news-heading">News</h2>
   <ol class="news-list">
     <li>
+      <time datetime="2026-09">September 2026</time>
+      <div>
+        Three papers were accepted to NeurIPS 2026, on agent memory, model merging, and efficient fine-tuning.
+        <a href="https://arxiv.org/abs/2605.21768">Memory-R2</a> ·
+        <a href="https://arxiv.org/abs/2605.12960">DiM³</a> ·
+        <a href="https://arxiv.org/abs/2605.21177">ChunkFT</a>
+      </div>
+    </li>
+    <li>
       <time datetime="2026-08">August 2026</time>
       <div>
         Two papers were accepted to <a href="https://2026.emnlp.org/">EMNLP 2026</a>
