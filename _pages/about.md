@@ -21,7 +21,7 @@ team:
     - name: Ercong Nie · 聂耳聪
       description: Founder and Head · Tenure-track Assistant Professor, School of Foreign Languages, SJTU
       website: https://ercong21.github.io/
-      picture: ercong-nie.jpg
+      picture: ercong-prof.JPEG
     - name: This could be you!
       description: We welcome motivated students interested in multilingual AI, interpretability, language science, and human-centered NLP.
       website: /contact/
