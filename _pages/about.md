@@ -60,6 +60,36 @@ team:
   <h2 class="section-heading" id="news-heading">News</h2>
   <ol class="news-list">
     <li>
+      <time datetime="2026-10">October 2026</time>
+      <div>
+        We launched SJTU’s interdisciplinary seminar series on language intelligence. <a href="https://sfl.sjtu.edu.cn/post/6886">First seminar</a>.
+      </div>
+    </li>
+    <li>
+      <time datetime="2026-10">October 2026</time>
+      <div>
+        Ercong gave a talk on “Linguistic Data in the LLM Era” at East China University of Political Science and Law. <a href="https://mp.weixin.qq.com/s/yzufD4spK1FKx4Tsmp3RyQ">News</a> · <a href="{{ '/assets/pdf/202610-华政报告_从语言到数据.pdf' | relative_url }}">Slides</a>
+      </div>
+    </li>
+    <li>
+      <time datetime="2026-10">October 2026</time>
+      <div>
+        We are excited to co-organize the <a href="https://bilinglm.github.io/">BilingLM Workshop</a> at COLING 2027 in Macau!
+      </div>
+    </li>
+    <li>
+      <time datetime="2026-10">October 2026</time>
+      <div>
+        Ercong was awarded an NSSFC Youth Project grant (国家社科基金青年项目) on cross-lingual representations in LLMs and human–LLM alignment.
+      </div>
+    </li>
+    <li>
+      <time datetime="2026-10">October 2026</time>
+      <div>
+        Ercong gave a talk on “Modeling Alzheimer’s-Related Language Changes in LLMs” at <a href="https://sfl.sjtu.edu.cn/events/458">SJTU-SFL LingLunch</a>, exploring neuron interventions that induce AD-related language phenotypes. <a href="{{ '/assets/pdf/202610-语言学午餐会-神经元干预与AD相关语言表型-聂耳聪.pdf' | relative_url }}">Slides</a>
+      </div>
+    </li>
+    <li>
       <time datetime="2026-09">September 2026</time>
       <div>
         Three papers were accepted to NeurIPS 2026, on agent memory, model merging, and efficient fine-tuning.
