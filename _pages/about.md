@@ -62,7 +62,7 @@ team:
     <li>
       <time datetime="2026-11">November 2026</time>
       <div>
-        Ercong was invited to serve as Senior Area Chair (SAC) for ACL 2027.
+        Ercong was invited to serve as Senior Area Chair (SAC) for ACL 2027. 🎉
       </div>
     </li>
     <li>
