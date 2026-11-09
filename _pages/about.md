@@ -60,6 +60,12 @@ team:
   <h2 class="section-heading" id="news-heading">News</h2>
   <ol class="news-list">
     <li>
+      <time datetime="2026-11">November 2026</time>
+      <div>
+        Ercong was invited to serve as Senior Area Chair (SAC) for ACL 2027.
+      </div>
+    </li>
+    <li>
       <time datetime="2026-10">October 2026</time>
       <div>
         We launched SJTU’s interdisciplinary seminar series on language intelligence. <a href="https://sfl.sjtu.edu.cn/post/6886">First seminar</a>.
